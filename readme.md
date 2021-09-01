@@ -10,7 +10,7 @@ El equipo cuenta con una bateria interna que proporciona 10 horas de autonomia. 
 
 ![Funcionamiento](/Pictures/Funcionamiento.png)
 ![Alimentacion](/Pictures/Alimentacion.jpg)
-![Panel](/Pictures/Panel 1.JPG)
+![Panel](/Pictures/panel.JPG)
 
 ## Media
 
